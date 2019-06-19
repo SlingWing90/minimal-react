@@ -1,5 +1,4 @@
 # minimal-react
-Make your study life to a RPG-Adventure
 
 ## Prerequisites
 installed npm
